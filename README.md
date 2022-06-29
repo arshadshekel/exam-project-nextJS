@@ -2,4 +2,4 @@ This is a remake of my semesterproject 2 with NextJS and tailwind, instead of va
 
 I didnt bother finishing the admin pages API requests because the main focus was learning NextJS and TailwindCSS
 
-Live version here: https://semesterproject-2-nextjs.vercel.app/
+Live version here: https://exam-project-next-js.vercel.app/
